@@ -1,0 +1,608 @@
+- rank: N3
+  text: "
+  <rb>散</rb>
+  <rp>(
+    </rp><rt>
+      ち
+    </rt><rp>
+  )</rp>
+  らかす
+  "
+  meaning:
+    - 亂扔
+  example:
+    - 部屋を散らかす
+  mistake:
+
+- rank: N3
+  text: "
+  <rb>通</rb>
+  <rp>(
+    </rp><rt>
+      つう
+    </rt><rp>
+  )</rp>
+  じる
+  "
+  meaning:
+    - 相通
+    - 理解
+  example:
+    - 気持ちか通じる
+  mistake:
+
+- rank: N3
+  text: "
+  <rb>捕</rb>
+  <rp>(
+    </rp><rt>
+      つか
+    </rt><rp>
+  )</rp>
+  まる
+  "
+  meaning:
+    - 被抓住
+  example:
+    - 泥棒か捕まる
+  mistake:
+
+- rank: N3
+  text: "つかむ"
+  meaning:
+    - 抓住
+  example:
+    - 腕かつかむ
+  mistake:
+
+- rank: N3
+  text: "
+  <rb>伝</rb>
+  <rp>(
+    </rp><rt>
+      つた
+    </rt><rp>
+  )</rp>
+  わる
+  "
+  meaning:
+    - 傳達
+  example:
+    - ニュースか世界中に伝わる
+  mistake:
+
+- rank: N3
+  text: "
+  <rb>捕</rb>
+  <rp>(
+    </rp><rt>
+      つか
+    </rt><rp>
+  )</rp>
+  まる
+  "
+  meaning:
+    - 被抓住
+  example:
+    - 泥棒か捕まる
+  mistake:
+
+- rank: N3
+  text: "
+  <rb>非</rb>
+  <rp>(
+    </rp><rt>
+      ひ
+    </rt><rp>
+  )</rp>
+  <rb>難</rb>
+  <rp>(
+    </rp><rt>
+      なん
+    </rt><rp>
+  )</rp>
+  "
+  meaning:
+    - 責難
+  example:
+    - 非難か強まる
+  mistake:
+
+- rank: N3
+  text: "
+  <rb>強</rb>
+  <rp>(
+    </rp><rt>
+      つよ
+    </rt><rp>
+  )</rp>
+  まる
+  "
+  meaning:
+    - 增強
+  example:
+    - 非難か強まる
+  mistake:
+
+- rank: N3
+  text: "
+  <rb>非</rb>
+  <rp>(
+    </rp><rt>
+      ひ
+    </rt><rp>
+  )</rp>
+  <rb>難</rb>
+  <rp>(
+    </rp><rt>
+      なん
+    </rt><rp>
+  )</rp>
+  "
+  meaning:
+    - 責難
+  example:
+    - 非難か強まる
+  mistake:
+
+- rank: N3
+  text: "
+  <rb>怠</rb>
+  <rp>(
+    </rp><rt>
+      なま
+    </rt><rp>
+  )</rp>
+  ける
+  "
+  meaning:
+    - 怠慢
+  example:
+    - 仕事か怠ける
+  mistake:
+
+- rank: N3
+  text: "
+  <rb>煮</rb>
+  <rp>(
+    </rp><rt>
+      に
+    </rt><rp>
+  )</rp>
+  <rb>難</rb>
+  る
+  "
+  meaning:
+    - 煮
+  example:
+    - 豆を煮る
+  mistake:
+
+- rank: N3
+  text: "
+  <rb>非</rb>
+  <rp>(
+    </rp><rt>
+      ひ
+    </rt><rp>
+  )</rp>
+  <rb>難</rb>
+  <rp>(
+    </rp><rt>
+      なん
+    </rt><rp>
+  )</rp>
+  "
+  meaning:
+    - 責難
+  example:
+    - 非難か強まる
+  mistake:
+
+- rank: N3
+  text: "
+  <rb>除</rb>
+  <rp>(
+    </rp><rt>
+      のぞ
+    </rt><rp>
+  )</rp>
+  く
+  "
+  meaning:
+    - 除去
+    - 除外
+  example:
+    - 不良品を除く
+  mistake:
+
+- rank: N3
+  text: "
+  <rb>非</rb>
+  <rp>(
+    </rp><rt>
+      ひ
+    </rt><rp>
+  )</rp>
+  <rb>難</rb>
+  <rp>(
+    </rp><rt>
+      なん
+    </rt><rp>
+  )</rp>
+  "
+  meaning:
+    - 責難
+  example:
+    - 非難か強まる
+  mistake:
+
+- rank: N3
+  text: "
+  <rb>上</rb>
+  <rp>(
+    </rp><rt>
+      のぼ
+    </rt><rp>
+  )</rp>
+  る
+  "
+  meaning:
+    - 登
+    - 爬
+    - 提升
+  example:
+    - 坂道を上る
+  mistake:
+
+- rank: N3
+  text: "
+  <rb>乗</rb>
+  <rp>(
+    </rp><rt>
+      の
+    </rt><rp>
+  )</rp>
+  り
+  <rb>遅</rb>
+  <rp>(
+    </rp><rt>
+      おく
+    </rt><rp>
+  )</rp>
+  れる
+  "
+  meaning:
+    - 趕不上
+    - 跟不上
+  example:
+    - 終電を乗り遅れる
+  mistake:
+
+- rank: N3
+  text: "
+  <rb>居</rb>
+  <rp>(
+    </rp><rt>
+      い
+    </rt><rp>
+  )</rp>
+  <rb>眠</rb>
+  <rp>(
+    </rp><rt>
+      ねむ
+    </rt><rp>
+  )</rp>
+  り
+  "
+  meaning:
+    - 打瞌睡
+  example:
+    - 居眠りして乗り越す
+  mistake:
+
+- rank: N3
+  text: "
+  <rb>測</rb>
+  <rp>(
+    </rp><rt>
+      はか
+    </rt><rp>
+  )</rp>
+  る
+  "
+  meaning:
+    - 計算
+    - 測量
+    - 推測
+  example:
+    - 重さを測る
+  mistake:
+
+- rank: N3
+  text: "
+  <rb>計</rb>
+  <rp>(
+    </rp><rt>
+      はか
+    </rt><rp>
+  )</rp>
+  る
+  "
+  meaning:
+    - 計算
+    - 測量
+    - 推測
+  example:
+    - 長さを計る
+  mistake:
+
+- rank: N3
+  text: "
+  <rb>計</rb>
+  <rp>(
+    </rp><rt>
+      はか
+    </rt><rp>
+  )</rp>
+  る
+  "
+  meaning:
+    - 計算
+    - 測量
+    - 推測
+  example:
+    - 時間を計る
+  mistake:
+
+- rank: N3
+  text: "
+  <rb>掃</rb>
+  <rp>(
+    </rp><rt>
+      は
+    </rt><rp>
+  )</rp>
+  く
+  "
+  meaning:
+    - 掃
+  example:
+    - 庭を掃く
+  mistake:
+
+- rank: N3
+  text: "
+  <rb>外</rb>
+  <rp>(
+    </rp><rt>
+      はず
+    </rt><rp>
+  )</rp>
+  す
+  "
+  meaning:
+    - 摘下
+    - 解開
+    - 避開
+    - 暫時迴避
+  example:
+    - 眼鏡を外す
+  mistake:
+
+- rank: N3
+  text: "
+  <rb>弾</rb>
+  <rp>(
+    </rp><rt>
+      はず
+    </rt><rp>
+  )</rp>
+  む
+  "
+  meaning:
+    - 彈
+    - 跳
+    - 高漲
+  example:
+    - ボールか弾む
+  mistake:
+
+- rank: N3
+  text: "
+  <rb>払</rb>
+  <rp>(
+    </rp><rt>
+      はら
+    </rt><rp>
+  )</rp>
+  い
+  <rb>戻</rb>
+  <rp>(
+    </rp><rt>
+      もど
+    </rt><rp>
+  )</rp>
+  す
+  "
+  meaning:
+    - 退還
+  example:
+    - 税金を払い戻す
+  mistake:
+
+- rank: N3
+  text: "
+  <rb>反</rb>
+  <rp>(
+    </rp><rt>
+      はん
+    </rt><rp>
+  )</rp>
+  する
+  "
+  meaning:
+    - 相反
+    - 違反
+  example:
+    - 予想に反する
+  mistake:
+
+- rank: N3
+  text: "
+  <rb>冷</rb>
+  <rp>(
+    </rp><rt>
+      ひ
+    </rt><rp>
+  )</rp>
+  やす
+  "
+  meaning:
+    - 弄涼
+    - 冷靜
+  example:
+    - 冷蔵庫でビールを冷やす
+  mistake:
+
+- rank: N3
+  text: "
+  <rb>深</rb>
+  <rp>(
+    </rp><rt>
+      ふか
+    </rt><rp>
+  )</rp>
+  まる
+  "
+  meaning:
+    - 使~加深
+  example:
+    - 理解か深まる
+  mistake:
+
+- rank: N3
+  text: "
+  <rb>拭</rb>
+  <rp>(
+    </rp><rt>
+      ふ
+    </rt><rp>
+  )</rp>
+  く
+  "
+  meaning:
+    - 擦拭
+  example:
+    - タオルで体を拭く
+  mistake:
+
+- rank: N3
+  text: "
+  <rb>振</rb>
+  <rp>(
+    </rp><rt>
+      ふ
+    </rt><rp>
+  )</rp>
+  り
+  <rb>込</rb>
+  <rp>(
+    </rp><rt>
+      こ
+    </rt><rp>
+  )</rp>
+  む
+  "
+  meaning:
+    - 撒入
+    - 存入
+    - 轉戶頭
+  example:
+    - 代金を振り込む
+  mistake:
+
+- rank: N3
+  text: "
+  <rb>干</rb>
+  <rp>(
+    </rp><rt>
+      ほ
+    </rt><rp>
+  )</rp>
+  す
+  "
+  meaning:
+    - 晾
+    - 弄乾
+  example:
+    - 布団を干す
+  mistake:
+
+- rank: N3
+  text: "
+  <rb>微笑</rb>
+  <rp>(
+    </rp><rt>
+      ほほえ
+    </rt><rp>
+  )</rp>
+  む
+  "
+  meaning:
+    - 微笑
+  example:
+    - 優しく微笑む
+  mistake:
+
+- rank: N3
+  text: "
+  <rb>巻</rb>
+  <rp>(
+    </rp><rt>
+      ま
+    </rt><rp>
+  )</rp>
+  く
+  "
+  meaning:
+    - 捲起
+    - 纏繞
+    - 包圍
+  example:
+    - 首にマフラーを巻く
+  mistake:
+
+- rank: N3
+  text: "
+  <rb>曲</rb>
+  <rp>(
+    </rp><rt>
+      ま
+    </rt><rp>
+  )</rp>
+  げる
+  "
+  meaning:
+    - 彎曲
+    - 折彎
+    - 傾斜
+  example:
+    - 腰を曲げで挨拶する
+  mistake:
+
+- rank: N3
+  text: "まとまる"
+  meaning:
+    - 統一, 歸納, 解決
+  example:
+    - みんなの意見かまとまる
+  mistake:
+
+- rank: N3
+  text: "まとめる"
+  meaning:
+    - 整理, 歸納, 收集
+  example:
+    - レポートをまとめる
+  mistake:
