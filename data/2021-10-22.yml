@@ -1,0 +1,105 @@
+- rank: N3
+  text: "そそっかしい"
+  example:
+    - そそっかしくて忘れ物か多い
+  meaning:
+    - 冒失
+  mistake:
+
+- rank: N3
+  text: "とんでもない"
+  example:
+    - とんでもない要求をする
+  meaning:
+    - 不合理
+    - 意想不到
+  mistake:
+
+- rank: N3
+  text: "
+  <rb>細</rb>
+  <rp>(
+    </rp><rt>
+      ほそ
+    </rt><rp>
+  )</rp>
+  <rb>長</rb>
+  <rp>(
+    </rp><rt>
+      なが
+    </rt><rp>
+  )</rp>
+  い  
+  "
+  example:
+    - 細長い顔をしている
+  meaning:
+    - 細長
+  mistake:
+
+- rank: N3
+  text: "
+  <rb>貧</rb>
+  <rp>(
+    </rp><rt>
+      まず
+    </rt><rp>
+  )</rp>
+  しい
+  "
+  example:
+    - 暮らしか貧しい
+  meaning:
+    - 貧窮
+  mistake:
+
+- rank: N3
+  text: "
+  やむを
+  <rb>得</rb>
+  <rp>(
+    </rp><rt>
+      え
+    </rt><rp>
+  )</rp>
+  ない
+  "
+  example:
+    - やむを得ない事情て欠席する
+  meaning:
+    - 不得已
+    - 無可奈何
+  mistake:
+
+- rank: N3
+  text: "
+  <rb>緩</rb>
+  <rp>(
+    </rp><rt>
+      ゆる
+    </rt><rp>
+  )</rp>
+  い
+  "
+  example:
+    - 緩いカープを曲がる
+  meaning:
+    - 緩慢
+  mistake:
+
+- rank: N3
+  text: "
+  <rb>若</rb>
+  <rp>(
+    </rp><rt>
+      わか
+    </rt><rp>
+  )</rp>
+  々しい
+  "
+  example:
+    - あの人は若々しい
+  meaning:
+    - 年輕
+    - 朝氣蓬勃
+  mistake:

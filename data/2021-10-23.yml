@@ -1,0 +1,254 @@
+- rank: N3
+  text: "
+  <rb>明</rb>
+  <rp>(
+    </rp><rt>
+      あ
+    </rt><rp>
+  )</rp>
+  きらか（な）
+  "
+  example:
+    - 失敗の責任を明らかにする
+  meaning:
+    - 明亮
+    - 顯然
+    - 釐清, 明確
+  mistake:
+
+- rank: N3
+  text: "
+  <rb>安易</rb>
+  <rp>(
+    </rp><rt>
+      あんい
+    </rt><rp>
+  )</rp>
+  な（な）
+  "
+  example:
+    - 人生を安易に考える
+  meaning:
+    - 容易
+    - 安逸
+    - 馬虎
+  mistake:
+
+- rank: N3
+  text: "いいかげん（な）"
+  example:
+    - 冗談もいいかげんにしなさい
+    - 彼はいいかげんな人だ
+  meaning:
+    - 適當
+    - 馬馬虎虎
+    - 敷衍
+  mistake:
+
+- rank: N3
+  text: "
+  <rb>気</rb>
+  <rp>(
+    </rp><rt>
+      き
+    </rt><rp>
+  )</rp>
+  <rb>楽</rb>
+  <rp>(
+    </rp><rt>
+      らく
+    </rt><rp>
+  )</rp>
+  （な）
+  "
+  example:
+    - 気楽に暮らす
+  meaning:
+    - 輕鬆
+    - 安樂
+    - 無顧慮
+  mistake:
+
+- rank: N3
+  text: "
+  <rb>結構</rb>
+  <rp>(
+    </rp><rt>
+      けっこ
+    </rt><rp>
+  )</rp>
+  （な）
+  "
+  example:
+    - 今日は結構な天気だ
+  meaning:
+    - 很好
+    - 可以
+    - 不用了
+  mistake:
+
+- rank: N3
+  text: "
+  <rb>消極</rb>
+  <rp>(
+    </rp><rt>
+      しょうきょく
+    </rt><rp>
+  )</rp>
+  <rb>的</rb>
+  <rp>(
+    </rp><rt>
+      てき
+    </rt><rp>
+  )</rp>
+  （な）
+  "
+  example:
+    - 消極的な回答をする
+  meaning:
+    - 消極的
+  mistake:
+
+- rank: N3
+  text: "なだらか（な）"
+  example:
+    - なだらか坂道か続く
+  meaning:
+    - 平緩
+  mistake:
+
+- rank: N3
+  text: "
+  <rb>熱心</rb>
+  <rp>(
+    </rp><rt>
+      ねっしん
+    </rt><rp>
+  )</rp>
+  （な）
+  "
+  example:
+    - 熱心な勉強する
+  meaning:
+    - 熱心
+    - 熱情
+  mistake:
+
+- rank: N3
+  text: "
+  <rb>真</rb>
+  <rp>(
+    </rp><rt>
+      ま
+    </rt><rp>
+  )</rp>
+  っ
+  <rb>赤</rb>
+  <rp>(
+    </rp><rt>
+      か
+    </rt><rp>
+  )</rp>
+  （な）
+  "
+  example:
+    - 顔を真っ赤にして怒る
+  meaning:
+    - 鮮紅
+  mistake:
+
+- rank: N3
+  text: "
+  <rb>真</rb>
+  <rp>(
+    </rp><rt>
+      ま
+    </rt><rp>
+  )</rp>
+  っ
+  <rb>暗</rb>
+  <rp>(
+    </rp><rt>
+      くら
+    </rt><rp>
+  )</rp>
+  （な）
+  "
+  example:
+    - 真っ暗な道を歩く
+  meaning:
+    - 陰暗
+  mistake:
+
+- rank: N3
+  text: "
+  <rb>真</rb>
+  <rp>(
+    </rp><rt>
+      ま
+    </rt><rp>
+  )</rp>
+  っ
+  <rb>青</rb>
+  <rp>(
+    </rp><rt>
+      さお
+    </rt><rp>
+  )</rp>
+  （な）
+  "
+  example:
+    - 顔が真っ青になる
+  meaning:
+    - 蒼白
+  mistake:
+
+- rank: N3
+  text: "
+  <rb>夢中</rb>
+  <rp>(
+    </rp><rt>
+      むちゅ
+    </rt><rp>
+  )</rp>
+  （な）
+  "
+  example:
+    - ゲームに夢中になる
+  meaning:
+    - 熱衷
+    - 沉迷
+  mistake:
+
+- rank: N3
+  text: "
+  <rb>豊</rb>
+  <rp>(
+    </rp><rt>
+      ゆた
+    </rt><rp>
+  )</rp>
+  か（な）
+  "
+  example:
+    - 豊かな生活をする
+  meaning:
+    - 豐富
+    - 富裕
+  mistake:
+
+- rank: N3
+  text: "
+  <rb>利口</rb>
+  <rp>(
+    </rp><rt>
+      りこう
+    </rt><rp>
+  )</rp>
+  （な）
+  "
+  example:
+    - 犬は利口な動物だ
+  meaning:
+    - 聰明
+  mistake:

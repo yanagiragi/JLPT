@@ -1,0 +1,109 @@
+- rank: N3
+  text: "
+  <rb>勇</rb>
+  <rp>(
+    </rp><rt>
+      いさ
+    </rt><rp>
+  )</rp>
+  ましい
+  "
+  example:
+    - 勇ましく行進する
+  meaning:
+    - 勇敢
+    - 雄壯
+  mistake:
+
+- rank: N3
+  text: "
+  <rb>幼</rb>
+  <rp>(
+    </rp><rt>
+      おさな
+    </rt><rp>
+  )</rp>
+  い
+  "
+  example:
+    - 私の子供はまだ幼い
+  meaning:
+    - 年幼
+    - 幼稚
+  mistake:
+  
+- rank: N3
+  text: "
+  <rb>重</rb>
+  <rp>(
+    </rp><rt>
+      おも
+    </rt><rp>
+  )</rp>
+  たい
+  "
+  example:
+    - 荷物か重たい
+  meaning:
+    - 沉重
+  mistake:
+
+- rank: N3
+  text: "
+  <rb>我慢</rb>
+  <rp>(
+    </rp><rt>
+      がまん
+    </rt><rp>
+  )</rp>
+  強
+  <rp>(
+    </rp><rt>
+      つよ
+    </rt><rp>
+  )</rp>
+  い
+  "
+  example:
+    - 我慢強い機会を待つ
+  meaning:
+    - 有耐心
+  mistake:
+
+- rank: N3
+  text: "
+  <rb>険</rb>
+  <rp>(
+    </rp><rt>
+      けわ
+    </rt><rp>
+  )</rp>
+  しい  
+  "
+  example:
+    - 険しい山道を歩く
+  meaning:
+    - 險峻
+  mistake:
+
+- rank: N3
+  text: "
+  <rb>塩</rb>
+  <rp>(
+    </rp><rt>
+      しお
+    </rt><rp>
+  )</rp>
+  <rb>辛</rb>
+  <rp>(
+    </rp><rt>
+      から
+    </rt><rp>
+  )</rp>
+  い  
+  "
+  example:
+    - 海の水は塩辛い
+  meaning:
+    - 鹹
+  mistake:
