@@ -1,0 +1,40 @@
+- rank: N3
+  text: "ビル"
+  example:
+    - 高いビルか並んでいる
+  meaning:
+    - 大樓 (Building)
+  mistake:
+    - ビール
+
+- rank: N3
+  text: "ファスナー"
+  example:
+    - ジャンパーのファスナーをかける
+  meaning:
+    - 拉鍊 (Fastener)
+  mistake:
+
+- rank: N3
+  text: "ファックス"
+  example:
+    - 外国にファックスを送る
+  meaning:
+    - 傳真 (Fax)
+  mistake:
+
+- rank: N3
+  text: "ブラウス"
+  example:
+    - 白いブラウスを着る
+  meaning:
+    - 女用上衣, 罩衫 (Blouse)
+  mistake:
+
+- rank: N3
+  text: "ブラシ"
+  example:
+    - ブラシで靴を磨く
+  meaning:
+    - 刷子 (Brush)
+  mistake:

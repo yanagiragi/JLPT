@@ -1,0 +1,115 @@
+- rank: N3
+  text: "ごろごろ"
+  example:
+    - 岩かごろごろ転かっている
+    - 一日中家でごろごろしている
+  meaning:
+    - 滾動的樣子
+    - 無所事事
+  mistake:
+
+- rank: N3
+  text: "さっぱり"
+  example:
+    - 風呂に入ってさっぱりする
+    - さっぱり分からない
+  meaning:
+    - 痛快
+    - (後接否定) 一點也
+  mistake:
+
+- rank: N3
+  text: "しいんと"
+  example:
+    - 教室はしいんとなった
+  meaning:
+    - 靜悄悄
+  mistake:
+
+- rank: N3
+  text: "しみじみ"
+  example:
+    - 親のありがたさをしみじみと感じる
+  meaning:
+    - 深切
+  mistake:
+
+- rank: N3
+  text: "<rb>徐</rb>
+  <rp>(
+    </rp><rt>
+      じょ
+    </rt><rp>
+  )</rp>々に"
+  example:
+    - 徐々にスピードを上げる
+  meaning:
+    - 緩慢地
+  mistake:
+
+- rank: N3
+  text: "<rb>少</rb>
+  <rp>(
+    </rp><rt>
+      すこ
+    </rt><rp>
+  )</rp>
+  しも"
+  example:
+    - 少しも寒くない
+  meaning:
+    - 一點也不
+  mistake:
+
+- rank: N3
+  text: "
+  <rb>続</rb>
+  <rp>(
+    </rp><rt>
+      ぞく
+    </rt><rp>
+  )</rp>
+  々"
+  example:
+    - 注文か続々来る
+  meaning:
+    - 不斷
+  mistake:
+
+- rank: N3
+  text: "そっと"
+  example:
+    - そっと涙を拭く
+  meaning:
+    - 悄悄的
+  mistake:
+
+- rank: N3
+  text: "
+  <rb>拭</rb>
+  <rp>(
+    </rp><rt>
+      ふ
+    </rt><rp>
+  )</rp>
+  く"
+  example:
+    - そっと涙を拭く
+  meaning:
+    - 擦拭
+  mistake:
+
+- rank: N3
+  text: "
+  <rb>大</rb>
+  <rp>(
+    </rp><rt>
+      たい
+    </rt><rp>
+  )</rp>
+  して"
+  example:
+    - 大して難しくない
+  meaning:
+    - (後接否定) 並不那麼
+  mistake:

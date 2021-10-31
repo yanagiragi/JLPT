@@ -1,0 +1,119 @@
+- rank: N3
+  text: "
+  <rb>常</rb>
+  <rp>(
+    </rp><rt>
+      つね
+    </rt><rp>
+  )</rp>
+  に"
+  example:
+    - 常に努力する
+  meaning:
+    - 經常
+  mistake:
+
+- rank: N3
+  text: "なかなか"
+  example:
+    - ながながとしゃべる
+  meaning:
+    - 長期, 冗長
+  mistake:
+
+- rank: N3
+  text: "のろのろ"
+  example:
+    - のろのろと歩く
+  meaning:
+    - 慢吞吞
+  mistake:
+
+- rank: N3
+  text: "はきはき"
+  example:
+    - 質問にははきはきと答える
+  meaning:
+    - 活潑, 有精神
+  mistake:
+
+- rank: N3
+  text: "ぱったり"
+  example:
+    - バス停でばったり先生に会った
+  meaning:
+    - 突然相遇
+    - 突然倒下
+    - 突然停止
+  mistake:
+
+- rank: N3
+  text: "ぴったり"
+  example:
+    - 窓をぴったりと閉める
+  meaning:
+    - 緊緊的
+    - 準確, 恰好
+  mistake:
+
+- rank: N3
+  text: "ぶつぶつ"
+  example:
+    - ぶつぶつ文句を言う
+  meaning:
+    - 低咕, 牢騷
+  mistake:
+
+- rank: N3
+  text: "ほっと"
+  example:
+    - その知らせを聞いてほっとした
+  meaning:
+    - 輕鬆狀, 嘆氣的樣子
+  mistake:
+
+- rank: N3
+  text: "ぶらぶら"
+  example:
+    - 近所をぶらぶらと散歩する
+    - 家でぶらぶらする
+  meaning:
+    - 無所事事
+  mistake:
+
+- rank: N3
+  text: "まごまご"
+  example:
+    - 出口かわからずまごまごする
+  meaning:
+    - 不知所措
+  mistake:
+
+- rank: N3
+  text: "
+  <rb>最</rb>
+  <rp>(
+    </rp><rt>
+      もっと
+    </rt><rp>
+  )</rp>
+  も"
+  example:
+    - この山か最も高い
+  meaning:
+    - 最
+  mistake:
+
+- rank: N3
+  text: "<rb>大</rb>
+  <rp>(
+    </rp><rt>
+      たい
+    </rt><rp>
+  )</rp>
+  した"
+  example:
+    - 大した人物だ
+  meaning:
+    - 了不起, 沒什麼了不起
+  mistake:

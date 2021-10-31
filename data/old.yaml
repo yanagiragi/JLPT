@@ -1,0 +1,301 @@
+- rank: N5
+  text: "
+  <rb>転</rb>
+  <rp>(
+    </rp><rt>
+      てん
+    </rt><rp>
+  )</rp>
+  <rb>勤</rb>
+  <rp>(
+    </rp><rt>
+      きん
+    </rt><rp>
+  )</rp>
+  "
+  example:
+    - 札幌に転勤する
+  meaning:
+    - 轉調
+  mistake:
+
+- rank: N5
+  text: "
+  <rb>丁</rb>
+  <rp>(
+    </rp><rt>
+      てい
+    </rt><rp>
+  )</rp>
+  <rb>寧</rb>
+  <rp>(
+    </rp><rt>
+      ねい
+    </rt><rp>
+  )</rp>
+  "
+  example:
+  meaning:
+    - 有禮貌
+  mistake:
+
+- rank: N5
+  text: "
+  <rb>転</rb>
+  <rp>(
+    </rp><rt>
+      てん
+    </rt><rp>
+  )</rp>
+  <rb>勤</rb>
+  <rp>(
+    </rp><rt>
+      きん
+    </rt><rp>
+  )</rp>
+  "
+  example:
+    - 札幌に転勤する
+  meaning:
+    - 轉調
+  mistake:
+
+- rank: N5
+  text: "
+  <rb>梨</rb>
+  <rp>(
+    </rp><rt>
+      なし
+    </rt><rp>
+  )</rp>
+  "
+  example:
+  meaning:
+    - 梨
+  mistake:
+
+- rank: N5
+  text: "
+  <rb抜</rb>
+  <rp>(
+    </rp><rt>
+      ぬき
+    </rt><rp>
+  )</rp>
+  <rb>打</rb>
+  <rp>(
+    </rp><rt>
+      う
+    </rt><rp>
+  )</rp>
+  ち
+  "
+  example:
+  meaning:
+    - 預告
+  mistake:
+
+- rank: N5
+  text: "
+  <rb>織</rb>
+  <rp>(
+    </rp><rt>
+      お
+    </rt><rp>
+  )</rp>
+  ります
+  "
+  example:
+  meaning:
+    - 編織
+  mistake:
+
+- rank: N5
+  text: "
+  <rb>温</rb>
+  <rp>(
+    </rp><rt>
+      ねる
+    </rt><rp>
+  )</rp>
+  い
+  "
+  example:
+  meaning:
+    - 溫暖的
+  mistake:
+
+- rank: N5
+  text: "
+  <rb>温</rb>
+  <rp>(
+    </rp><rt>
+      ぬく
+    </rt><rp>
+  )</rp>
+  もり
+  "
+  example:
+  meaning:
+    - 溫暖
+  mistake:
+
+- rank: N5
+  text: "
+  <rb>封筒</rb>
+  <rp>(
+    </rp><rt>
+      ふうとう
+    </rt><rp>
+  )</rp>
+  "
+  example:
+  meaning:
+    - 信封
+  mistake:
+
+- rank: N5
+  text: "
+  <rb>封筒</rb>
+  <rp>(
+    </rp><rt>
+      ふうとう
+    </rt><rp>
+  )</rp>
+  "
+  example:
+  meaning:
+    - 信封
+  mistake:
+
+- rank: N5
+  text: "へとへと"
+  example:
+  meaning:
+    - 疲累的
+  mistake:
+
+- rank: N5
+  text: "
+  <rb>凹</rb>
+  <rp>(
+    </rp><rt>
+      へこ
+    </rt><rp>
+  )</rp>
+  み
+  "
+  example:
+  meaning:
+    - 凹下去的地方
+  mistake:
+
+- rank: N5
+  text: "
+  <rb>細</rb>
+  <rp>(
+    </rp><rt>
+      ほそ
+    </rt><rp>
+  )</rp>
+  い
+  "
+  example:
+  meaning:
+    - 細
+  mistake:
+
+- rank: N5
+  text: "
+  <rb>名刺</rb>
+  <rp>(
+    </rp><rt>
+      めいし
+    </rt><rp>
+  )</rp>
+  "
+  example:
+  meaning:
+    - 名片
+  mistake:
+
+- rank: N5
+  text: "
+  <rb>目</rb>
+  <rp>(
+    </rp><rt>
+      め
+    </rt><rp>
+  )</rp>
+  <rb>上</rb>
+  <rp>(
+    </rp><rt>
+      うえ
+    </rt><rp>
+  )</rp>
+  "
+  example:
+  meaning:
+    - 長輩
+    - 上司
+  mistake:
+
+- rank: N5
+  text: "
+  <rb>申</rb>
+  <rp>(
+    </rp><rt>
+      もう
+    </rt><rp>
+  )</rp>
+  し
+  <rb>込</rb>
+  <rp>(
+    </rp><rt>
+      こ
+    </rt><rp>
+  )</rp>
+  み
+  "
+  example:
+  meaning:
+    - 申請
+  mistake:
+
+- rank: N5
+  text: "
+  <rb>落胆</rb>
+  <rp>(
+    </rp><rt>
+      らくたん
+    </rt><rp>
+  )</rp>
+  "
+  example:
+  meaning:
+    - 灰心
+    - 氣餒
+  mistake:
+
+- rank: N5
+  text: "るんるん"
+  example:
+  meaning:
+    - 心情很好的樣子
+  mistake:
+
+- rank: N5
+  text: "
+  <rb>挙</rb>
+  <rp>(
+    </rp><rt>
+      あ
+    </rt><rp>
+  )</rp>
+  げる
+  "
+  example:
+  meaning:
+    - 逮捕
+    - 舉證, 檢舉
+  mistake:

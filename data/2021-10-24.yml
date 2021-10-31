@@ -1,0 +1,57 @@
+- rank: N5
+  text: "いきいき"
+  example:
+    - 生き生きとした表情をする
+  meaning:
+    - 生動
+    - 活潑
+  mistake:
+
+- rank: N5
+  text: "
+  <rb>一斉</rb>
+  <rp>(
+    </rp><rt>
+      いせ
+    </rt><rp>
+  )</rp>
+  に
+  "
+  example:
+    - 一斉に出発する
+  meaning:
+    - 一起, 共同
+  mistake:
+
+- rank: N5
+  text: "うろうろ"
+  example:
+    - 怪し男かうろうろしている
+  meaning:
+    - 一起, 共同
+  mistake:
+
+- rank: N5
+  text: "からから"
+  example:
+    - 電車はからからだった
+  meaning:
+    - 空空如也
+  mistake:
+
+- rank: N5
+  text: "きちんと"
+  example:
+    - 部屋をきちんと片付けなさい
+  meaning:
+    - 好好的
+    - 整潔, 乾乾淨淨, 整整齊齊
+  mistake:
+
+- rank: N5
+  text: "ぎっしり"
+  example:
+    - 箱に本をぎっしり詰める
+  meaning:
+    - 滿滿的
+  mistake:
