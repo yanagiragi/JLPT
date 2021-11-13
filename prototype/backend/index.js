@@ -2,6 +2,7 @@ const express = require('express')
 const fs = require('fs')
 const path = require('path')
 const yaml = require('js-yaml')
+const cors = require('cors')
 
 function CollectQuestions() {
     const root = '../../data'
@@ -60,6 +61,7 @@ function PickData(_type, _amount, _filter) {
 }
 
 const app = express()
+app.use(cors())
 const port = 3000
 const questions = CollectQuestions()
 const data = Load(questions)

@@ -1,9 +1,11 @@
 <template>
   <div id="app">
-    <div id="nav" class="text-white">
+    <!--
+      <div id="nav" class="text-white">
       <router-link to="/">Home</router-link> |
       <router-link to="/examine">Examine</router-link>
     </div>
+    -->
     <h1 class="font-sans text-8xl text-gray-200">
         JLPT Prototype
     </h1>

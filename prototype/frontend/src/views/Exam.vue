@@ -16,41 +16,8 @@ export default {
   name: 'Main',
   data: function() {
     return {
-      "wordList":  [
-        {  
-          "rank": "N3",
-          "text": "とんでもない",
-          "example": [
-            "とんでもない要求をする"
-          ],
-          "meaning": [
-            "不合理",
-            "意想不到"
-          ],
-          "mistake": null,
-          "candidates": [
-            "とんでもない",
-            "とんでもない2",
-            "とんでもない3"
-          ]
-        },
-        {
-          "rank": "N3",
-          "text": " <rb>細</rb> <rp>( </rp><rt> ほそ </rt><rp> )</rp> <rb>長</rb> <rp>( </rp><rt> なが </rt><rp> )</rp> い   ",
-          "example": [
-            "細長い顔をしている"
-          ],
-          "meaning": [
-            "細長"
-          ],
-          "mistake": null,
-          "candidates": [
-            "とんでもない",
-            "とんでもない2",
-            "とんでもない3"
-          ]
-        }
-      ]
+      "wordList":  [],
+      "backendUrl": 'http://localhost:3000/pick'
     }
   },
   components: {
@@ -65,6 +32,18 @@ export default {
   methods: {
     OnMount: function() {
       console.log('Mount Examine View')
+      this.LoadQuestion();
+    },
+    LoadQuestion: async function() {
+      const url = new URL(location.href)
+      const pathname = url.pathname
+      const [type, amount, filter] = pathname.split('/').slice(2)
+      console.log([type, amount, filter])
+      console.log(`${this.backendUrl}/${type}/${amount}/${filter}`)
+      const response = await fetch(`${this.backendUrl}/${type}/${amount}/${filter}`)
+      const result = await response.json()
+      console.log(result)
+      this.wordList = result
     }
   }
 }
