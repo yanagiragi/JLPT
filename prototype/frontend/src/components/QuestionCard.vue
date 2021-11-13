@@ -1,5 +1,5 @@
 <template>
-    <div class="max-w-md mx-auto bg-white rounded-xl shadow-md overflow-hidden md:max-w-2xl m-8 bg-gray-50 shadow-2xl">
+    <div class="questCard max-w-md mx-auto bg-white rounded-xl shadow-md overflow-hidden md:max-w-2xl m-8 bg-gray-50 shadow-2xl">
         <div class="md:flex">
             <div class="md:flex-shrink-0">
                 <div class="h-48 w-full md:h-full md:w-48 rounded-full flex justify-center items-center">
@@ -24,7 +24,7 @@
                 <div>
                     <div class="tab__content p-2" v-show="active">
                       
-                      <!-- Meaning -->
+                      <!-- Meanings -->
                       <div v-if="wordProp.meanings != null"  class="p-2">
                         <div class="text-left">
                           Meanings: 
@@ -34,7 +34,7 @@
                         </div>
                       </div>
 
-                      <!-- Example -->
+                      <!-- Examples -->
                       <div v-if="wordProp.examples != null" class="p-2">
                         <div class="text-left">
                           Examples: 
@@ -44,6 +44,7 @@
                         </div>
                       </div>
 
+                      <!-- Mistakes -->
                       <div v-if="wordProp.mistakes != null" class="p-2">
                         <div class="text-left">
                           Mistakes: 
@@ -53,22 +54,20 @@
                         </div>
                       </div>
                       
+                      <!-- Result -->
                       <p v-for="result in ['Right', 'Wrong']" :key="result" class="mt-2 text-gray-500 text-left">
-                          <input type="radio" :name="`groupResult`" value="result" class="rounded text-pink-500" />
+                          <input type="radio" :name="`result_${indexProp}`" :value="result" class="rounded text-pink-500" />
                           {{ result }}
                       </p>
                     </div>
                 </div>
 
-                <!--
+                <!-- TODO: mulltiple choice
                 <p v-for="candidate in wordProp.candidates" :key="candidate" class="mt-2 text-gray-500 text-left">
                     <input type="radio" :name="`group${indexProp}`" value="candidate" class="rounded text-pink-500" />
                         {{ candidate }}
                 </p>
                 -->
-
-                
-
             </div>
 
         </div>

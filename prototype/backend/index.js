@@ -19,15 +19,17 @@ function Load(questions) {
     }    
     questions
         .filter(x => !(x.text in loaded))
-        .forEach(x => loaded.push({ id: GetQuestionId(x), errorCount: 0 }))
+        .forEach(x => loaded.push({ id: GetQuestionId(x), word: x, errorCount: 0, successCount: 0 }))
     return loaded
 }
 
 function Save(result) {
+    const parsedResult = result.map(x => ({ id: GetQuestionId(x.word), isRight: x.answer == 'Right'}))
+    for(const {id, isRight} of parsedResult) {
+        data.find(x => x.id == id).errorCount += (isRight ? 0 : 1);
+        data.find(x => x.id == id).successCount += (isRight ? 1 : 0);
+    }
     const dataPath = 'db.json'
-
-    // do something with the result
-
     fs.writeFileSync(dataPath, JSON.stringify(data, null, 4))
 }
 
@@ -62,6 +64,8 @@ function PickData(_type, _amount, _filter) {
 
 const app = express()
 app.use(cors())
+app.use(express.json())
+
 const port = 3000
 const questions = CollectQuestions()
 const data = Load(questions)
@@ -73,7 +77,7 @@ app.get('/pick/:type/:amount/:filter', (req, res) => {
 })
 
 // result [ { id: true/false } ]
-app.post('/result', express.json(), (req, res) => {
+app.post('/result', (req, res) => {
     Save(req.body)
     res.send('OK')
 })

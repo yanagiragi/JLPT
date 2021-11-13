@@ -2,7 +2,7 @@
   <div class="block">
     <QuestionCard :wordProp="word" :indexProp="index" v-for="(word, index) in wordList" :key="word.text" />
     <div class="m-8">
-      <button class="bg-blue-500 hover:bg-white text-white font-semibold hover:text-blue-700 py-2 px-4 border border-transparent hover:border-blue-500 rounded">
+      <button class="bg-blue-500 hover:bg-white text-white font-semibold hover:text-blue-700 py-2 px-4 border border-transparent hover:border-blue-500 rounded" @click="Submit">
         Submit
       </button>
     </div>
@@ -17,7 +17,8 @@ export default {
   data: function() {
     return {
       "wordList":  [],
-      "backendUrl": 'http://localhost:3000/pick'
+      "pickUrl": 'http://localhost:3000/pick',
+      "resultUrl": 'http://localhost:3000/result'
     }
   },
   components: {
@@ -38,12 +39,35 @@ export default {
       const url = new URL(location.href)
       const pathname = url.pathname
       const [type, amount, filter] = pathname.split('/').slice(2)
-      console.log([type, amount, filter])
-      console.log(`${this.backendUrl}/${type}/${amount}/${filter}`)
-      const response = await fetch(`${this.backendUrl}/${type}/${amount}/${filter}`)
+      const response = await fetch(`${this.pickUrl}/${type}/${amount}/${filter}`)
       const result = await response.json()
-      console.log(result)
       this.wordList = result
+    },
+    Submit: async function() {
+      const url = new URL(location.href)
+      const pathname = url.pathname
+      const [, amount,] = pathname.split('/').slice(2)
+      const answers = [...document.querySelectorAll('.questCard input[type^=radio]:checked')].map(x => x.value)
+      if (answers.length != amount) {
+        alert('Not All Answer are selected')
+        return;
+      }
+      else {
+        const body = this.wordList.map((x, index) => ({
+          word: x,
+          answer: answers[index]
+        }))
+        const resp = await fetch(`${this.resultUrl}`, {
+          body: JSON.stringify(body),
+          method: 'POST',
+          headers: {
+            'content-type': 'application/json'
+          },
+        })
+        const result = await resp.text()
+        console.log(result)
+        return result
+      }
     }
   }
 }

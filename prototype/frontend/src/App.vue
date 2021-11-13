@@ -7,7 +7,7 @@
     </div>
     -->
     <h1 class="font-sans text-8xl text-gray-200">
-        JLPT Prototype
+        JLPT
     </h1>
     <router-view/>
   </div>
