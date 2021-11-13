@@ -12,7 +12,6 @@ function CollectQuestions() {
 }
 
 function Load(questions) {
-    const dataPath = 'db.json'
     let loaded = []
     if (fs.existsSync(dataPath)) {
         loaded = JSON.parse(fs.readFileSync(dataPath))
@@ -29,7 +28,6 @@ function Save(result) {
         data.find(x => x.id == id).errorCount += (isRight ? 0 : 1);
         data.find(x => x.id == id).successCount += (isRight ? 1 : 0);
     }
-    const dataPath = 'db.json'
     fs.writeFileSync(dataPath, JSON.stringify(data, null, 4))
 }
 
@@ -41,8 +39,7 @@ function Shuffle(array) {
         currentIndex--;
 
         // And swap it with the current element.
-        [array[currentIndex], array[randomIndex]] = [
-        array[randomIndex], array[currentIndex]];
+        [array[currentIndex], array[randomIndex]] = [array[randomIndex], array[currentIndex]];
     }
     return array;
 }
@@ -67,6 +64,7 @@ app.use(cors())
 app.use(express.json())
 
 const port = 3000
+const dataPath = 'db.json'
 const questions = CollectQuestions()
 const data = Load(questions)
 
@@ -76,7 +74,6 @@ app.get('/pick/:type/:amount/:filter', (req, res) => {
     res.send(pick)
 })
 
-// result [ { id: true/false } ]
 app.post('/result', (req, res) => {
     Save(req.body)
     res.send('OK')
