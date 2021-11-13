@@ -1,15 +1,15 @@
 import Vue from 'vue'
 import VueRouter from 'vue-router'
 import Home from '../views/Home.vue'
-import Examine from '../views/Examine.vue'
+import Exam from '../views/Exam.vue'
 
 Vue.use(VueRouter)
 
 const routes = [
   {
-    path: '/examine',
-    name: 'examine',
-    component: Examine
+    path: '/exam/*',
+    name: 'Exam',
+    component: Exam
   },
   {
     path: '/',
