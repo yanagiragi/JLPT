@@ -8,9 +8,9 @@
   )</rp>
   く
   "
-  example:
+  examples:
     - パーティーに友達を招く
-  meaning:
+  meanings:
     - 招呼
     - 招待
   mistake:
@@ -31,9 +31,9 @@
   )</rp>
   げる
   "
-  example:
+  examples:
     - 空を見上げる
-  meaning:
+  meanings:
     - 仰望
     - 景仰
   mistake:
@@ -54,9 +54,9 @@
   )</rp>
   ろる
   "
-  example:
+  examples:
     - ビルの屋上に町を見下ろす
-  meaning:
+  meanings:
     - 俯視
   mistake:
 
@@ -76,9 +76,9 @@
   )</rp>
   す
   "
-  example:
+  examples:
     - 計画を見直す
-  meaning:
+  meanings:
     - 重看
   mistake:
 
@@ -92,9 +92,9 @@
   )</rp>
   る
   "
-  example:
+  examples:
     - 医者に診てもらう
-  meaning:
+  meanings:
     - 看病
   mistake:
 
@@ -108,9 +108,9 @@
   )</rp>
   す
   "
-  example:
+  examples:
     - 蒸して鶏肉を薄く切る
-  meaning:
+  meanings:
     - 蒸
     - 悶熱
   mistake:
@@ -125,9 +125,9 @@
   )</rp>
   る
   "
-  example:
+  examples:
     - 皿に料理を盛る
-  meaning:
+  meanings:
     - 盛滿
     - 堆積
     - 調配 (藥)
@@ -143,17 +143,17 @@
   )</rp>
   る
   "
-  example:
+  examples:
     - 手紙を破る
-  meaning:
+  meanings:
     - 弄破
   mistake:
 
 - rank: N3
   text: "ゆでる"
-  example:
+  examples:
     - 玉をゆでる
-  meaning:
+  meanings:
     - 汆燙
   mistake:
 
@@ -173,17 +173,17 @@
   )</rp>
   る
   "
-  example:
+  examples:
     - 道を横切る
-  meaning:
+  meanings:
     - 橫過
   mistake:
 
 - rank: N3
   text: "よこす"
-  example:
+  examples:
     - 妹か私に手紙をよこした
-  meaning:
+  meanings:
     - 寄來
     - 交給
     - 送來
@@ -206,9 +206,9 @@
   )</rp>
   う
   "
-  example:
+  examples:
     - 酔っぱって喧嘩をする
-  meaning:
+  meanings:
     - 喝得爛醉
   mistake:
 
@@ -222,8 +222,8 @@
   )</rp>
   ける
   "
-  example:
+  examples:
     - 3回に分けて支払う
-  meaning:
+  meanings:
     - 分開
   mistake:

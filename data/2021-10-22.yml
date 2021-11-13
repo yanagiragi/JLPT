@@ -1,16 +1,16 @@
 - rank: N3
   text: "そそっかしい"
-  example:
+  examples:
     - そそっかしくて忘れ物か多い
-  meaning:
+  meanings:
     - 冒失
   mistake:
 
 - rank: N3
   text: "とんでもない"
-  example:
+  examples:
     - とんでもない要求をする
-  meaning:
+  meanings:
     - 不合理
     - 意想不到
   mistake:
@@ -31,9 +31,9 @@
   )</rp>
   い  
   "
-  example:
+  examples:
     - 細長い顔をしている
-  meaning:
+  meanings:
     - 細長
   mistake:
 
@@ -47,9 +47,9 @@
   )</rp>
   しい
   "
-  example:
+  examples:
     - 暮らしか貧しい
-  meaning:
+  meanings:
     - 貧窮
   mistake:
 
@@ -64,9 +64,9 @@
   )</rp>
   ない
   "
-  example:
+  examples:
     - やむを得ない事情て欠席する
-  meaning:
+  meanings:
     - 不得已
     - 無可奈何
   mistake:
@@ -81,9 +81,9 @@
   )</rp>
   い
   "
-  example:
+  examples:
     - 緩いカープを曲がる
-  meaning:
+  meanings:
     - 緩慢
   mistake:
 
@@ -97,9 +97,9 @@
   )</rp>
   々しい
   "
-  example:
+  examples:
     - あの人は若々しい
-  meaning:
+  meanings:
     - 年輕
     - 朝氣蓬勃
   mistake:

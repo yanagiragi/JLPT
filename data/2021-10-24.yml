@@ -1,8 +1,8 @@
 - rank: N5
   text: "いきいき"
-  example:
+  examples:
     - 生き生きとした表情をする
-  meaning:
+  meanings:
     - 生動
     - 活潑
   mistake:
@@ -17,41 +17,41 @@
   )</rp>
   に
   "
-  example:
+  examples:
     - 一斉に出発する
-  meaning:
+  meanings:
     - 一起, 共同
   mistake:
 
 - rank: N5
   text: "うろうろ"
-  example:
+  examples:
     - 怪し男かうろうろしている
-  meaning:
+  meanings:
     - 一起, 共同
   mistake:
 
 - rank: N5
   text: "からから"
-  example:
+  examples:
     - 電車はからからだった
-  meaning:
+  meanings:
     - 空空如也
   mistake:
 
 - rank: N5
   text: "きちんと"
-  example:
+  examples:
     - 部屋をきちんと片付けなさい
-  meaning:
+  meanings:
     - 好好的
     - 整潔, 乾乾淨淨, 整整齊齊
   mistake:
 
 - rank: N5
   text: "ぎっしり"
-  example:
+  examples:
     - 箱に本をぎっしり詰める
-  meaning:
+  meanings:
     - 滿滿的
   mistake:

@@ -11,7 +11,7 @@
                     <span v-html="wordProp.text"></span>
                 </div>-->
 
-                <div @click.prevent="active = !active" class="text-left">
+                <div @click.prevent="active = !active" class="text-left w-full">
                   <a href="#" class="mt-2 text-3xl leading-tight font-semibold hover:underline">
                     <span v-if="!active"> {{ TrimText(wordProp.text) }} </span>
                     <span v-if="active" v-html="wordProp.text"></span>
@@ -25,21 +25,21 @@
                     <div class="tab__content p-2" v-show="active">
                       
                       <!-- Meaning -->
-                      <div v-if="wordProp.meaning != null"  class="p-2">
+                      <div v-if="wordProp.meanings != null"  class="p-2">
                         <div class="text-left">
                           Meanings: 
                         </div>
-                        <div v-for="meaning in wordProp.meaning" :key="meaning" class="text-left">
+                        <div v-for="meaning in wordProp.meanings" :key="meaning" class="text-left">
                             - {{ meaning }}
                         </div>
                       </div>
 
                       <!-- Example -->
-                      <div v-if="wordProp.example != null" class="p-2">
+                      <div v-if="wordProp.examples != null" class="p-2">
                         <div class="text-left">
                           Examples: 
                         </div>
-                        <div v-for="example in wordProp.example" :key="example" class="text-left">
+                        <div v-for="example in wordProp.examples" :key="example" class="text-left">
                           - {{ example }}
                         </div>
                       </div>
@@ -53,6 +53,10 @@
                         </div>
                       </div>
                       
+                      <p v-for="result in ['Right', 'Wrong']" :key="result" class="mt-2 text-gray-500 text-left">
+                          <input type="radio" :name="`groupResult`" value="result" class="rounded text-pink-500" />
+                          {{ result }}
+                      </p>
                     </div>
                 </div>
 
@@ -63,7 +67,10 @@
                 </p>
                 -->
 
+                
+
             </div>
+
         </div>
     </div>
 </template>

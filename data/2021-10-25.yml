@@ -1,36 +1,36 @@
 - rank: N3
   text: "ごろごろ"
-  example:
+  examples:
     - 岩かごろごろ転かっている
     - 一日中家でごろごろしている
-  meaning:
+  meanings:
     - 滾動的樣子
     - 無所事事
   mistake:
 
 - rank: N3
   text: "さっぱり"
-  example:
+  examples:
     - 風呂に入ってさっぱりする
     - さっぱり分からない
-  meaning:
+  meanings:
     - 痛快
     - (後接否定) 一點也
   mistake:
 
 - rank: N3
   text: "しいんと"
-  example:
+  examples:
     - 教室はしいんとなった
-  meaning:
+  meanings:
     - 靜悄悄
   mistake:
 
 - rank: N3
   text: "しみじみ"
-  example:
+  examples:
     - 親のありがたさをしみじみと感じる
-  meaning:
+  meanings:
     - 深切
   mistake:
 
@@ -41,9 +41,9 @@
       じょ
     </rt><rp>
   )</rp>々に"
-  example:
+  examples:
     - 徐々にスピードを上げる
-  meaning:
+  meanings:
     - 緩慢地
   mistake:
 
@@ -55,9 +55,9 @@
     </rt><rp>
   )</rp>
   しも"
-  example:
+  examples:
     - 少しも寒くない
-  meaning:
+  meanings:
     - 一點也不
   mistake:
 
@@ -70,17 +70,17 @@
     </rt><rp>
   )</rp>
   々"
-  example:
+  examples:
     - 注文か続々来る
-  meaning:
+  meanings:
     - 不斷
   mistake:
 
 - rank: N3
   text: "そっと"
-  example:
+  examples:
     - そっと涙を拭く
-  meaning:
+  meanings:
     - 悄悄的
   mistake:
 
@@ -93,10 +93,10 @@
     </rt><rp>
   )</rp>
   く"
-  example:
+  examples:
     - そっと涙を拭く
     - タオルで体を拭く
-  meaning:
+  meanings:
     - 擦拭
   mistake:
 
@@ -109,8 +109,8 @@
     </rt><rp>
   )</rp>
   して"
-  example:
+  examples:
     - 大して難しくない
-  meaning:
+  meanings:
     - (後接否定) 並不那麼
   mistake:

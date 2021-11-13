@@ -13,9 +13,9 @@
     </rt><rp>
   )</rp>
   "
-  example:
+  examples:
     - 札幌に転勤する
-  meaning:
+  meanings:
     - 轉調
   mistake:
 
@@ -34,8 +34,8 @@
     </rt><rp>
   )</rp>
   "
-  example:
-  meaning:
+  examples:
+  meanings:
     - 有禮貌
   mistake:
 
@@ -48,8 +48,8 @@
     </rt><rp>
   )</rp>
   "
-  example:
-  meaning:
+  examples:
+  meanings:
     - 梨
   mistake:
 
@@ -69,8 +69,8 @@
   )</rp>
   ち
   "
-  example:
-  meaning:
+  examples:
+  meanings:
     - 預告
   mistake:
 
@@ -84,8 +84,8 @@
   )</rp>
   ります
   "
-  example:
-  meaning:
+  examples:
+  meanings:
     - 編織
   mistake:
 
@@ -99,8 +99,8 @@
   )</rp>
   い
   "
-  example:
-  meaning:
+  examples:
+  meanings:
     - 溫暖的
   mistake:
 
@@ -114,8 +114,8 @@
   )</rp>
   もり
   "
-  example:
-  meaning:
+  examples:
+  meanings:
     - 溫暖
   mistake:
 
@@ -128,15 +128,15 @@
     </rt><rp>
   )</rp>
   "
-  example:
-  meaning:
+  examples:
+  meanings:
     - 信封
   mistake:
 
 - rank: N5
   text: "へとへと"
-  example:
-  meaning:
+  examples:
+  meanings:
     - 疲累的
   mistake:
 
@@ -150,8 +150,8 @@
   )</rp>
   み
   "
-  example:
-  meaning:
+  examples:
+  meanings:
     - 凹下去的地方
   mistake:
 
@@ -165,8 +165,8 @@
   )</rp>
   い
   "
-  example:
-  meaning:
+  examples:
+  meanings:
     - 細
   mistake:
 
@@ -179,8 +179,8 @@
     </rt><rp>
   )</rp>
   "
-  example:
-  meaning:
+  examples:
+  meanings:
     - 名片
   mistake:
 
@@ -199,8 +199,8 @@
     </rt><rp>
   )</rp>
   "
-  example:
-  meaning:
+  examples:
+  meanings:
     - 長輩
     - 上司
   mistake:
@@ -222,8 +222,8 @@
   )</rp>
   み
   "
-  example:
-  meaning:
+  examples:
+  meanings:
     - 申請
   mistake:
 
@@ -236,16 +236,16 @@
     </rt><rp>
   )</rp>
   "
-  example:
-  meaning:
+  examples:
+  meanings:
     - 灰心
     - 氣餒
   mistake:
 
 - rank: N5
   text: "るんるん"
-  example:
-  meaning:
+  examples:
+  meanings:
     - 心情很好的樣子
   mistake:
 
@@ -259,8 +259,8 @@
   )</rp>
   げる
   "
-  example:
-  meaning:
+  examples:
+  meanings:
     - 逮捕
     - 舉證, 檢舉
   mistake:

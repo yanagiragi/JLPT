@@ -8,9 +8,9 @@
   )</rp>
   らかす
   "
-  meaning:
+  meanings:
     - 亂扔
-  example:
+  examples:
     - 部屋を散らかす
   mistake:
 
@@ -24,10 +24,10 @@
   )</rp>
   じる
   "
-  meaning:
+  meanings:
     - 相通
     - 理解
-  example:
+  examples:
     - 気持ちか通じる
   mistake:
 
@@ -41,17 +41,17 @@
   )</rp>
   まる
   "
-  meaning:
+  meanings:
     - 被抓住
-  example:
+  examples:
     - 泥棒か捕まる
   mistake:
 
 - rank: N3
   text: "つかむ"
-  meaning:
+  meanings:
     - 抓住
-  example:
+  examples:
     - 腕かつかむ
   mistake:
 
@@ -65,9 +65,9 @@
   )</rp>
   わる
   "
-  meaning:
+  meanings:
     - 傳達
-  example:
+  examples:
     - ニュースか世界中に伝わる
   mistake:
 
@@ -81,9 +81,9 @@
   )</rp>
   ける
   "
-  meaning:
+  meanings:
     - 怠慢
-  example:
+  examples:
     - 仕事か怠ける
   mistake:
 
@@ -98,9 +98,9 @@
   <rb>難</rb>
   る
   "
-  meaning:
+  meanings:
     - 煮
-  example:
+  examples:
     - 豆を煮る
   mistake:
 
@@ -119,9 +119,9 @@
     </rt><rp>
   )</rp>
   "
-  meaning:
+  meanings:
     - 責難
-  example:
+  examples:
     - 非難か強まる
   mistake:
 
@@ -135,10 +135,10 @@
   )</rp>
   く
   "
-  meaning:
+  meanings:
     - 除去
     - 除外
-  example:
+  examples:
     - 不良品を除く
   mistake:
 
@@ -152,11 +152,11 @@
   )</rp>
   る
   "
-  meaning:
+  meanings:
     - 登
     - 爬
     - 提升
-  example:
+  examples:
     - 坂道を上る
   mistake:
 
@@ -177,10 +177,10 @@
   )</rp>
   れる
   "
-  meaning:
+  meanings:
     - 趕不上
     - 跟不上
-  example:
+  examples:
     - 終電を乗り遅れる
   mistake:
 
@@ -200,9 +200,9 @@
   )</rp>
   り
   "
-  meaning:
+  meanings:
     - 打瞌睡
-  example:
+  examples:
     - 居眠りして乗り越す
   mistake:
 
@@ -216,11 +216,11 @@
   )</rp>
   る
   "
-  meaning:
+  meanings:
     - 計算
     - 測量
     - 推測
-  example:
+  examples:
     - 重さを測る
   mistake:
 
@@ -234,11 +234,11 @@
   )</rp>
   る
   "
-  meaning:
+  meanings:
     - 計算
     - 測量
     - 推測
-  example:
+  examples:
     - 時間を計る
     - 長さを計る
   mistake:
@@ -253,9 +253,9 @@
   )</rp>
   く
   "
-  meaning:
+  meanings:
     - 掃
-  example:
+  examples:
     - 庭を掃く
   mistake:
 
@@ -269,12 +269,12 @@
   )</rp>
   す
   "
-  meaning:
+  meanings:
     - 摘下
     - 解開
     - 避開
     - 暫時迴避
-  example:
+  examples:
     - 眼鏡を外す
   mistake:
 
@@ -288,11 +288,11 @@
   )</rp>
   む
   "
-  meaning:
+  meanings:
     - 彈
     - 跳
     - 高漲
-  example:
+  examples:
     - ボールか弾む
   mistake:
 
@@ -313,9 +313,9 @@
   )</rp>
   す
   "
-  meaning:
+  meanings:
     - 退還
-  example:
+  examples:
     - 税金を払い戻す
   mistake:
 
@@ -329,10 +329,10 @@
   )</rp>
   する
   "
-  meaning:
+  meanings:
     - 相反
     - 違反
-  example:
+  examples:
     - 予想に反する
   mistake:
 
@@ -346,10 +346,10 @@
   )</rp>
   やす
   "
-  meaning:
+  meanings:
     - 弄涼
     - 冷靜
-  example:
+  examples:
     - 冷蔵庫でビールを冷やす
   mistake:
 
@@ -363,9 +363,9 @@
   )</rp>
   まる
   "
-  meaning:
+  meanings:
     - 使~加深
-  example:
+  examples:
     - 理解か深まる
   mistake:
 
@@ -386,11 +386,11 @@
   )</rp>
   む
   "
-  meaning:
+  meanings:
     - 撒入
     - 存入
     - 轉戶頭
-  example:
+  examples:
     - 代金を振り込む
   mistake:
 
@@ -404,10 +404,10 @@
   )</rp>
   す
   "
-  meaning:
+  meanings:
     - 晾
     - 弄乾
-  example:
+  examples:
     - 布団を干す
   mistake:
 
@@ -421,9 +421,9 @@
   )</rp>
   む
   "
-  meaning:
+  meanings:
     - 微笑
-  example:
+  examples:
     - 優しく微笑む
   mistake:
 
@@ -437,11 +437,11 @@
   )</rp>
   く
   "
-  meaning:
+  meanings:
     - 捲起
     - 纏繞
     - 包圍
-  example:
+  examples:
     - 首にマフラーを巻く
   mistake:
 
@@ -455,26 +455,26 @@
   )</rp>
   げる
   "
-  meaning:
+  meanings:
     - 彎曲
     - 折彎
     - 傾斜
-  example:
+  examples:
     - 腰を曲げで挨拶する
   mistake:
 
 - rank: N3
   text: "まとまる"
-  meaning:
+  meanings:
     - 統一, 歸納, 解決
-  example:
+  examples:
     - みんなの意見かまとまる
   mistake:
 
 - rank: N3
   text: "まとめる"
-  meaning:
+  meanings:
     - 整理, 歸納, 收集
-  example:
+  examples:
     - レポートをまとめる
   mistake:

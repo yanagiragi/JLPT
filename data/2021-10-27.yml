@@ -1,16 +1,16 @@
 - rank: N3
   text: "アマチュア"
-  example:
+  examples:
     - アマチュア写真家として活動する
-  meaning:
+  meanings:
     - 業餘愛好者
   mistake:
 
 - rank: N3
   text: "アルミホイル"
-  example:
+  examples:
     - アルミホイルを敷いて魚を焼く
-  meaning:
+  meanings:
     - 錫箔紙
   mistake:
 
@@ -22,32 +22,32 @@
     </rt><rp>
   )</rp>
   い"
-  example:
+  examples:
     - アルミホイルをいて魚を焼く
-  meaning:
+  meanings:
     - 鋪上一層
   mistake:
 
 - rank: N3
   text: "カーナビ"
-  example:
+  examples:
     - カーナビで道を探す
-  meaning:
+  meanings:
     - 汽車導航 (Car Navi)
   mistake:
 
 - rank: N3
   text: "カーブ"
-  example:
+  examples:
     - 急カーブを曲がる
-  meaning:
+  meanings:
     - 彎曲 (Curve)
   mistake:
 
 - rank: N3
   text: "カンニング"
-  example:
+  examples:
     - テストでカンニングをする
-  meaning:
+  meanings:
     - 作弊 (Cunning)
   mistake:

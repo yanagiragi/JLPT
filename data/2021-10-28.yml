@@ -1,23 +1,23 @@
 - rank: N3
   text: "デジカメ"
-  example:
+  examples:
     - デジカメで写真を撮る
-  meaning:
+  meanings:
     - 數位相機 (Digital Camera)
   mistake:
 
 - rank: N3
   text: "ドライブ"
-  example:
+  examples:
     - ドライブに行く
-  meaning:
+  meanings:
     - 兜風
   mistake:
 
 - rank: N3
   text: "ドライヤー"
-  example:
+  examples:
     - ドライヤーで髪を乾かす
-  meaning:
+  meanings:
     - 吹風機 (Dryer)
   mistake:

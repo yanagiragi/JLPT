@@ -7,41 +7,41 @@
     </rt><rp>
   )</rp>
   に"
-  example:
+  examples:
     - 常に努力する
-  meaning:
+  meanings:
     - 經常
   mistake:
 
 - rank: N3
   text: "なかなか"
-  example:
+  examples:
     - ながながとしゃべる
-  meaning:
+  meanings:
     - 長期, 冗長
   mistake:
 
 - rank: N3
   text: "のろのろ"
-  example:
+  examples:
     - のろのろと歩く
-  meaning:
+  meanings:
     - 慢吞吞
   mistake:
 
 - rank: N3
   text: "はきはき"
-  example:
+  examples:
     - 質問にははきはきと答える
-  meaning:
+  meanings:
     - 活潑, 有精神
   mistake:
 
 - rank: N3
   text: "ぱったり"
-  example:
+  examples:
     - バス停でばったり先生に会った
-  meaning:
+  meanings:
     - 突然相遇
     - 突然倒下
     - 突然停止
@@ -49,43 +49,43 @@
 
 - rank: N3
   text: "ぴったり"
-  example:
+  examples:
     - 窓をぴったりと閉める
-  meaning:
+  meanings:
     - 緊緊的
     - 準確, 恰好
   mistake:
 
 - rank: N3
   text: "ぶつぶつ"
-  example:
+  examples:
     - ぶつぶつ文句を言う
-  meaning:
+  meanings:
     - 低咕, 牢騷
   mistake:
 
 - rank: N3
   text: "ほっと"
-  example:
+  examples:
     - その知らせを聞いてほっとした
-  meaning:
+  meanings:
     - 輕鬆狀, 嘆氣的樣子
   mistake:
 
 - rank: N3
   text: "ぶらぶら"
-  example:
+  examples:
     - 近所をぶらぶらと散歩する
     - 家でぶらぶらする
-  meaning:
+  meanings:
     - 無所事事
   mistake:
 
 - rank: N3
   text: "まごまご"
-  example:
+  examples:
     - 出口かわからずまごまごする
-  meaning:
+  meanings:
     - 不知所措
   mistake:
 
@@ -98,9 +98,9 @@
     </rt><rp>
   )</rp>
   も"
-  example:
+  examples:
     - この山か最も高い
-  meaning:
+  meanings:
     - 最
   mistake:
 
@@ -112,8 +112,8 @@
     </rt><rp>
   )</rp>
   した"
-  example:
+  examples:
     - 大した人物だ
-  meaning:
+  meanings:
     - 了不起, 沒什麼了不起
   mistake:
