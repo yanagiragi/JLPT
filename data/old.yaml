@@ -41,27 +41,6 @@
 
 - rank: N5
   text: "
-  <rb>転</rb>
-  <rp>(
-    </rp><rt>
-      てん
-    </rt><rp>
-  )</rp>
-  <rb>勤</rb>
-  <rp>(
-    </rp><rt>
-      きん
-    </rt><rp>
-  )</rp>
-  "
-  example:
-    - 札幌に転勤する
-  meaning:
-    - 轉調
-  mistake:
-
-- rank: N5
-  text: "
   <rb>梨</rb>
   <rp>(
     </rp><rt>
@@ -76,7 +55,7 @@
 
 - rank: N5
   text: "
-  <rb抜</rb>
+  <rb>抜</rb>
   <rp>(
     </rp><rt>
       ぬき
@@ -138,20 +117,6 @@
   example:
   meaning:
     - 溫暖
-  mistake:
-
-- rank: N5
-  text: "
-  <rb>封筒</rb>
-  <rp>(
-    </rp><rt>
-      ふうとう
-    </rt><rp>
-  )</rp>
-  "
-  example:
-  meaning:
-    - 信封
   mistake:
 
 - rank: N5

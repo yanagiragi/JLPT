@@ -73,22 +73,6 @@
 
 - rank: N3
   text: "
-  <rb>捕</rb>
-  <rp>(
-    </rp><rt>
-      つか
-    </rt><rp>
-  )</rp>
-  まる
-  "
-  meaning:
-    - 被抓住
-  example:
-    - 泥棒か捕まる
-  mistake:
-
-- rank: N3
-  text: "
   <rb>怠</rb>
   <rp>(
     </rp><rt>

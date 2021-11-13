@@ -117,23 +117,6 @@
 
 - rank: N3
   text: "
-  <rb>蒸</rb>
-  <rp>(
-    </rp><rt>
-      む
-    </rt><rp>
-  )</rp>
-  す
-  "
-  example:
-    - 蒸して鶏肉を薄く切る
-  meaning:
-    - 蒸
-    - 悶熱
-  mistake:
-
-- rank: N3
-  text: "
   <rb>盛</rb>
   <rp>(
     </rp><rt>
