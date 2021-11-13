@@ -89,64 +89,6 @@
 
 - rank: N3
   text: "
-  <rb>非</rb>
-  <rp>(
-    </rp><rt>
-      ひ
-    </rt><rp>
-  )</rp>
-  <rb>難</rb>
-  <rp>(
-    </rp><rt>
-      なん
-    </rt><rp>
-  )</rp>
-  "
-  meaning:
-    - 責難
-  example:
-    - 非難か強まる
-  mistake:
-
-- rank: N3
-  text: "
-  <rb>強</rb>
-  <rp>(
-    </rp><rt>
-      つよ
-    </rt><rp>
-  )</rp>
-  まる
-  "
-  meaning:
-    - 增強
-  example:
-    - 非難か強まる
-  mistake:
-
-- rank: N3
-  text: "
-  <rb>非</rb>
-  <rp>(
-    </rp><rt>
-      ひ
-    </rt><rp>
-  )</rp>
-  <rb>難</rb>
-  <rp>(
-    </rp><rt>
-      なん
-    </rt><rp>
-  )</rp>
-  "
-  meaning:
-    - 責難
-  example:
-    - 非難か強まる
-  mistake:
-
-- rank: N3
-  text: "
   <rb>怠</rb>
   <rp>(
     </rp><rt>
@@ -214,27 +156,6 @@
     - 除外
   example:
     - 不良品を除く
-  mistake:
-
-- rank: N3
-  text: "
-  <rb>非</rb>
-  <rp>(
-    </rp><rt>
-      ひ
-    </rt><rp>
-  )</rp>
-  <rb>難</rb>
-  <rp>(
-    </rp><rt>
-      なん
-    </rt><rp>
-  )</rp>
-  "
-  meaning:
-    - 責難
-  example:
-    - 非難か強まる
   mistake:
 
 - rank: N3
@@ -334,25 +255,8 @@
     - 測量
     - 推測
   example:
-    - 長さを計る
-  mistake:
-
-- rank: N3
-  text: "
-  <rb>計</rb>
-  <rp>(
-    </rp><rt>
-      はか
-    </rt><rp>
-  )</rp>
-  る
-  "
-  meaning:
-    - 計算
-    - 測量
-    - 推測
-  example:
     - 時間を計る
+    - 長さを計る
   mistake:
 
 - rank: N3
@@ -479,22 +383,6 @@
     - 使~加深
   example:
     - 理解か深まる
-  mistake:
-
-- rank: N3
-  text: "
-  <rb>拭</rb>
-  <rp>(
-    </rp><rt>
-      ふ
-    </rt><rp>
-  )</rp>
-  く
-  "
-  meaning:
-    - 擦拭
-  example:
-    - タオルで体を拭く
   mistake:
 
 - rank: N3
