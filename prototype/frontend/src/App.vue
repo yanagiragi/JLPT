@@ -1,21 +1,20 @@
 <template>
   <div id="app">
-    <div class="block">
-      <h1 class="font-sans text-8xl text-gray-200">
-        JLPT Prototype
-      </h1>
+    <div id="nav" class="text-white">
+      <router-link to="/">Home</router-link> |
+      <router-link to="/examine">Examine</router-link>
     </div>
-    <Main msg="Welcome to Your Vue.js App"/>
+    <h1 class="font-sans text-8xl text-gray-200">
+        JLPT Prototype
+    </h1>
+    <router-view/>
   </div>
 </template>
 
 <script>
-import Main from './components/Main.vue'
-
 export default {
   name: 'App',
   components: {
-    Main
   }
 }
 </script>

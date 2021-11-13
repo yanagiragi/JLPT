@@ -1,6 +1,5 @@
 <template>
   <div class="block">
-    <!-- <h1>{{ msg }}</h1> -->
     <Card :wordProp="word" :indexProp="index" v-for="(word, index) in wordList" :key="word.text" />
     <div class="m-8">
       <button class="bg-blue-500 hover:bg-white text-white font-semibold hover:text-blue-700 py-2 px-4 border border-transparent hover:border-blue-500 rounded">
@@ -11,7 +10,7 @@
 </template>
 
 <script>
-import Card from './Card.vue'
+import Card from '../components/Card.vue'
 
 export default {
   name: 'Main',
@@ -61,12 +60,11 @@ export default {
     msg: String
   },
   mounted: function() {
-    this.hi()
+    this.OnMount()
   },
   methods: {
-    hi: function() {
-      console.log('hi')
-      return 'hi'
+    OnMount: function() {
+      console.log('Mount Examine View')
     }
   }
 }

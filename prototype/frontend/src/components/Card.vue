@@ -6,7 +6,7 @@
                     <p class="text-8xl text-left leading-tight font-light">{{ indexProp + 1 }}</p>
                 </div>
             </div>
-            <div class="p-8">
+            <div class="p-5">
                 <!--<div class="uppercase tracking-wide text-sm text-indigo-500 font-semibold">
                     <span v-html="wordProp.text"></span>
                 </div>-->
@@ -31,11 +31,11 @@ export default {
     indexProp: Number
   },
   mounted: function() {
-    this.mount()
+    this.OnMount()
   },
   methods: {
-    mount: function() {
-      console.log('mount')
+    OnMount: function() {
+      console.log('OnMount Card View')
     },
     TrimText: function(raw) {
         const doc = new DOMParser().parseFromString(`<element>${raw}</element>`, "text/xml");
