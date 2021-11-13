@@ -1,6 +1,6 @@
 <template>
   <div class="block">
-    <Card :wordProp="word" :indexProp="index" v-for="(word, index) in wordList" :key="word.text" />
+    <QuestionCard :wordProp="word" :indexProp="index" v-for="(word, index) in wordList" :key="word.text" />
     <div class="m-8">
       <button class="bg-blue-500 hover:bg-white text-white font-semibold hover:text-blue-700 py-2 px-4 border border-transparent hover:border-blue-500 rounded">
         Submit
@@ -10,7 +10,7 @@
 </template>
 
 <script>
-import Card from '../components/Card.vue'
+import QuestionCard from '../components/QuestionCard.vue'
 
 export default {
   name: 'Main',
@@ -21,7 +21,7 @@ export default {
     }
   },
   components: {
-    Card
+    QuestionCard
   },
   props: {
     msg: String
