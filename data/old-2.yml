@@ -1,0 +1,795 @@
+- rank: N3
+  text: "
+  <rb>並</rb>
+  <rp>(
+    </rp><rt>なら</rt><rp>
+  )</rp>び"
+  meanings:
+    - 並列
+
+- rank: N3
+  text: "
+  <rb>露出</rb>
+  <rp>(
+    </rp><rt>
+    ろしゅつ</rt><rp>
+  )</rp>
+  <rb>工事</rb>
+  <rp>(
+    </rp><rt>こうじ</rt><rp>
+  )</rp>"
+  meanings:
+    - 露天工程
+
+- rank: N3
+  text: "
+  <rb>画</rb>
+  <rp>(
+    </rp><rt>が</rt><rp>
+  )</rp>
+  <rb>鋲</rb>
+  <rp>(
+    </rp><rt>びょう</rt><rp>
+  )</rp>"
+  meanings:
+    - 圖釘
+
+- rank: N3
+  text: "
+  <rb>懸</rb>
+  <rp>(
+    </rp><rt>が</rt><rp>
+  )</rp>け"
+  meanings:
+    - 賭上
+
+- rank: N3
+  text: "ぐさり"
+  meanings:
+    - 突刺的樣子
+    - 受到強烈的批判的樣子
+
+- rank: N3
+  text: "
+  <rb>暗記</rb>
+  <rp>(
+    </rp><rt>あんき</rt><rp>
+  )</rp>"
+  meanings:
+    - 記住
+
+- rank: N3
+  text: "
+  <rb>ご馳</rb>
+  <rp>(
+    </rp><rt>ち</rt><rp>
+  )</rp>
+  <rb>走</rb>
+  <rp>(
+    </rp><rt>そう</rt><rp>
+  )</rp>
+  <rb>様</rb>
+  <rp>(
+    </rp><rt>さま</rt><rp>
+  )</rp>でした"
+  meanings:
+    - 謝謝招待(御馳走＝很好的菜)
+
+- rank: N3
+  text: "
+  <rb>混/rb>
+  <rp>(
+    </rp><rt>ま</rt><rp>
+  )</rp>じる"
+  meanings:
+    - 混入
+    - 加入同伴
+
+- rank: N3
+  text: "
+  <rb>図</rb>
+  <rp>(
+    </rp><rt>ずう</rt><rp>
+  )</rp>
+  <rb>図</rb>
+  <rp>(
+    </rp><rt>ずう</rt><rp>
+  )</rp>
+  しい</rt><rp>
+  )</rp>"
+  meanings:
+    - 厚臉皮
+
+- rank: N3
+  text: "
+  <rb>図</rb>
+  <rp>(
+    </rp><rt>ず</rt><rp>
+  )</rp>"
+  meanings:
+    - 圖
+
+- rank: N3
+  text: "
+  <rb>雑</rb>
+  <rp>(
+    </rp><rt>ぞう</rt><rp>
+  )</rp>
+  <rb>巾</rb>
+  <rp>(
+    </rp><rt>きん</rt><rp>
+  )</rp>"
+  meanings:
+    - 抹布(地板用)
+
+- rank: N3
+  text: "
+  <rb>布</rb>
+  <rp>(
+    </rp><rt>ふ</rt><rp>
+  )</rp>
+  <rb>巾</rb>
+  <rp>(
+    </rp><rt>きん</rt><rp>
+  )</rp>"
+  meanings:
+    - 抹布(桌子用)
+
+- rank: N3
+  text: "
+  <rb>底</rb>
+  <rp>(
+    </rp><rt>そこ</rt><rp>
+  )</rp>
+  <rb>力</rb>
+  <rp>(
+    </rp><rt>ぢから</rt><rp>
+  )</rp>"
+  meanings:
+    - 潛力
+    - 深厚的
+  examples:
+    - 底力を発揮する
+    - 底力のある声
+
+- rank: N3
+  text: "
+  <rb>分</rb>
+  <rp>(
+    </rp><rt>ぶ</rt><rp>
+  )</rp>
+  <rb>厚</rb>
+  <rp>(
+    </rp><rt>あつ</rt><rp>
+  )</rp>い"
+  meanings:
+    - 有相當的厚度
+  examples:
+    - 分厚い手紙
+
+- rank: N3
+  text: "
+  <rb>頭</rb>
+  <rp>(
+    </rp><rt>ず</rt><rp>
+  )</rp>痛</rb>
+  <rp>(
+    </rp><rt>つう</rt><rp>
+  )</rp>"
+  meanings:
+    - 頭痛
+
+- rank: N3
+  text: "ずんずん"
+  meanings:
+    - 迅速的
+
+- rank: N3
+  text: "ぞっと"
+  meanings:
+    - 令人毛骨悚然的
+
+- rank: N3
+  text: "
+  <rb>存</rb>
+  <rp>(
+    </rp><rt>ぞん</rt><rp>
+  )</rp>
+  <rb>知</rb>
+  <rp>(
+    </rp><rt>ち</rt><rp>
+  )</rp>"
+  meanings:
+    - 理解
+  examples:
+    - こちらの方がよいと存じます
+
+- rank: N3
+  text: "ぞんざい"
+  meanings:
+    - 草率
+  examples:
+    - ぞんざいに教える
+
+- rank: N3
+  text: "ぞろぞろ"
+  meanings:
+    - 一個接著一個
+    - 後面拖著
+  examples:
+    - 映画館から人がぞろぞろ出てきた
+    - 裾をぞろぞろと引きずる
+
+- rank: N3
+  text: "
+  <rb>裾</rb>
+  <rp>(
+    </rp><rt>すそ</rt><rp>
+  )</rp>"
+  meanings:
+    - 衣服下襬
+
+- rank: N3
+  text: "
+  <rb>暖</rb>
+  <rp>(
+    </rp><rt>だん</rt><rp>
+  )</rp>
+  <rb>房</rb>
+  <rp>(
+    </rp><rt>ぼう</rt><rp>
+  )</rp>"
+  meanings:
+    - 暖房
+
+- rank: N3
+  text: "
+  <rb>縮</rb>
+  <rp>(
+    </rp><rt>ちぢ</rt><rp>
+  )</rp>み"
+  meanings:
+    - 縮小
+
+- rank: N3
+  text: "
+  <rb>入</rb>
+  <rp>(
+    </rp><rt>い</rt><rp>
+  )</rp>れ
+  <rb>知恵</rb>
+  <rp>(
+    </rp><rt>ぢえ</rt><rp>
+  )</rp>"
+  meanings:
+    - 教唆
+  examples:
+    - 幼い弟に入れ知恵する
+
+- rank: N3
+  text: "
+  <rb>身</rb>
+  <rp>(
+    </rp><rt>み</rt><rp>
+  )</rp>
+  <rb>近</rb>
+  <rp>(
+    </rp><rt>ちか</rt><rp>
+  )</rp>"
+  meanings:
+    - 身邊
+
+- rank: N3
+  text: "やりづらい"
+  meanings:
+    - 難以達成的
+
+- rank: N3
+  text: "
+  <rb>小</rb>
+  <rp>(
+    </rp><rt>こ</rt><rp>
+  )</rp>
+  <rb>遣</rb>
+  <rp>(
+    </rp><rt>づか</rt><rp>
+  )</rp>い"
+  meanings:
+    - 零用錢
+
+- rank: N3
+  text: "
+  <rb>割</rb>
+  <rp>(
+    </rp><rt>わ</rt><rp>
+  )</rp>れ"
+  meanings:
+    - 割到
+
+- rank: N3
+  text: "
+  <rb>別</rb>
+  <rp>(
+    </rp><rt>べつ</rt><rp>
+  )</rp>々"
+  meanings:
+    - 個別的
+
+- rank: N3
+  text: "
+  <rb>滿腹</rb>
+  <rp>(
+    </rp><rt>はらいっぱい</rt><rp>
+  )</rp>"
+  meanings:
+    - 滿腹(牢騷, 心事)
+
+- rank: N3
+  text: "ぱあ"
+  meanings:
+    - 傻
+  examples:
+    - この人、少しぱあね
+
+- rank: N3
+  text: "ぱくる"
+  meanings:
+    - 張大嘴吃
+    - 偷竊
+    - 待補
+  examples:
+    - おむすびをぱくる
+    - 手形をぱくる
+    - 犯行がばれてぱくられた
+
+- rank: N3
+  text: "ぱったり"
+  meanings:
+    - 突然倒下
+
+- rank: N3
+  text: "
+  ぴり
+  <rb>辛</rb>
+  <rp>(
+    </rp><rt>から</rt><rp>
+  )</rp>"
+  meanings:
+    - 辛辣味
+
+- rank: N3
+  text: "ぴりっと"
+  meanings:
+    - 辛辣的
+
+- rank: N3
+  text: "ぷんぷん"
+  meanings:
+    - 味道很重
+    - 怒氣沖沖
+  examples:
+    - ぷんぷんとにおう
+    - 彼はぷんぷん怒って帰っていった
+
+- rank: N3
+  text: "ぷかぷか"
+  meanings:
+    - 抽菸狀
+    - 浮在水面狀
+  examples:
+    - ぷかぷかとたばこをふかす
+    - 魚がぷかぷかと浮き上がる
+
+- rank: N3
+  text: "ぷっくり"
+  meanings:
+    - 物體膨脹的樣子
+  examples:
+    - 虫にさされたあとがぷっくりする
+
+- rank: N3
+  text: "ぷっと"
+  meanings:
+    - 噗哧
+    - 生氣噘嘴
+    - 瞬間吐出
+  examples:
+    - おかしくてぷっと吹き出す
+    - 怒られてぷっとふくれる
+    - ブドウの種をぷっと吐き出す
+
+- rank: N3
+  text: "ぺいぺい"
+  meanings:
+    - 地位低的人
+  examples:
+    - ぺいぺいの平社員
+
+- rank: N3
+  text: "ぺたぺた"
+  meanings:
+    - 拍打聲
+  examples:
+    - 平手で顔をぺたぺたたたく
+
+- rank: N3
+  text: "ぺたり"
+  meanings:
+    - 輕輕貼黏貌
+    - 輕輕坐下貌
+  examples:
+    - 切手をぺたりとはる
+    - ぺたりと座る
+
+- rank: N3
+  text: "
+  ぽい
+  <rb>捨</rb>
+  <rp>(
+    </rp><rt>す</rt><rp>
+  )</rp>て"
+  meanings:
+    - 隨手丟棄
+  examples:
+    - ぽい捨て禁止
+
+- rank: N3
+  text: "
+  <rb>小</rb>
+  <rp>(
+    </rp><rt>こ</rt><rp>
+  )</rp>
+  <rb>枝</rb>
+  <rp>(
+    </rp><rt>えだ</rt><rp>
+  )</rp>"
+  meanings:
+    - 樹木細枝
+
+- rank: N3
+  text: "
+  <rb>脚光</rb>
+  <rp>(
+    </rp><rt>きゃっこう</rt><rp>
+  )</rp>"
+  meanings:
+    - 舞台前端地板照射演員的燈光, 引申為嶄露頭角的意思
+  examples:
+    - 脚光を浴びる
+    - 原子力発電が時代の脚光を浴びる
+
+- rank: N3
+  text: "
+  <rb>旧</rb>
+  <rp>(
+    </rp><rt>きゅう</rt><rp>
+  )</rp>
+  <rb>正</rb>
+  <rp>(
+    </rp><rt>しょう</rt><rp>
+  )</rp>
+  <rb>月</rb>
+  <rp>(
+    </rp><rt>がつ</rt><rp>
+  )</rp>"
+  meanings:
+    - 農曆正月
+
+- rank: N3
+  text: "
+  <rb>真似</rb>
+  <rp>(
+    </rp><rt>まね</rt><rp>
+  )</rp>"
+  meanings:
+    - 模仿
+  examples:
+    - アメリカ映画の真似をする
+
+- rank: N3
+  text: "
+  <rb>茶</rb>
+  <rp>(
+    </rp><rt>ちゃ</rt><rp>
+  )</rp>
+  <rb>化</rb>
+  <rp>(
+    </rp><rt>か</rt><rp>
+  )</rp>す"
+  examples:
+    - 茶化さないで、まじめに聞きなさい
+
+- rank: N3
+  text: "
+  <rb>駐</rb>
+  <rp>(
+    </rp><rt>ちゅう</rt><rp>
+  )</rp>
+  <rb>車</rb>
+  <rp>(
+    </rp><rt>しゃ</rt><rp>
+  )</rp>
+  meanings:
+    - 停車
+
+- rank: N3
+  text: "
+  <rb>宙</rb>
+  <rp>(
+    </rp><rt>ちゅう</rt><rp>
+  )</rp>"
+  meanings:
+    - 天空
+    - 背誦
+  examples:
+    - 宙に浮かぶ
+    - この詩は宙で言える
+
+- rank: N3
+  text: "
+  <rb>浮</rb>
+  <rp>(
+    </rp><rt>う</rt><rp>
+  )</rp>かぶ"
+  meanings:
+    - 浮
+  examples:
+    - 雲が浮ぶ
+
+- rank: N3
+  text: "
+  <rb>女房</rb>
+  <rp>(
+    </rp><rt>にゅうぼう</rt><rp>
+  )</rp>"
+  meanings:
+    - 妻子
+  examples:
+    - うちの女房
+
+- rank: N3
+  text: "
+  <rb>略</rb>
+  <rp>(
+    </rp><rt>りゃく</rt><rp>
+  )</rp>す"
+  meanings:
+    - 簡略
+    - 奪取
+  examples:
+    - 略して話す
+    - 敵地を略す
+
+- rank: N3
+  text: "
+  <rb>仰</rb>
+  <rp>(
+    </rp><rt>ぎょう</rt><rp>
+  )</rp>
+  <rb>天</rb>
+  <rp>(
+    </rp><rt>てん</rt><rp>
+  )</rp>"
+  meanings:
+    - 大吃一驚
+  examples:
+    - びっくり仰天する
+
+- rank: N3
+  text: "
+  <rb>ジャガ芋</rb>
+  <rp>(
+    </rp><rt>も</rt><rp>
+  )</rp>"
+  meanings:
+    - 馬鈴薯
+
+- rank: N3
+  text: "
+  <rb>蛇</rb>
+  <rp>(
+    </rp><rt>じゃ</rt><rp>
+  )</rp>
+  <rb>口</rb>
+  <rp>(
+    </rp><rt>ぐち</rt><rp>
+  )</rp>"
+  meanings:
+    - 水龍頭
+
+- rank: N3
+  text: "
+  <rb>十</rb>
+  <rp>(
+    </rp><rt>じゅう</rt><rp>
+  )</rp>
+  <rb>字路</rb>
+  <rp>(
+    </rp><rt>じろ</rt><rp>
+  )</rp>"
+  meanings:
+    - 十字路口
+
+- rank: N3
+  text: "
+  <rb>占</rb>
+  <rp>(
+    </rp><rt>し</rt><rp>
+  )</rp>める"
+  meanings:
+    - 佔據
+  examples:
+    - 大臣の椅子を占める
+
+- rank: N3
+  text: "
+  <rb>上達</rb>
+  <rp>(
+    </rp><rt>じょうたつ</rt><rp>
+  )</rp>"
+  meanings:
+    - 進步
+  examples:
+    - 踊りが上達した
+
+- rank: N3
+  text: "
+  <rb>錠</rb>
+  <rp>(
+    </rp><rt>じょう</rt><rp>
+  )</rp>"
+  meanings:
+    - 鎖
+    - 片(藥的量詞)
+  examples:
+    - 錠をかける
+    - 1回3錠ずつ飲む
+
+- rank: N3
+  text: "シーソーゲーム"
+  meanings:
+    - 拉鋸戰 (seesaw game)
+
+- rank: N3
+  text: "
+  <rb>糎</rb>
+  <rp>(
+    </rp><rt>センチメートル</rt><rp>
+  )</rp>"
+  meanings:
+    - 公分 (centimeter)
+
+- rank: N3
+  text: "
+  <rb>横</rb>
+  <rp>(
+    </rp><rt>よこ</rt><rp>
+  )</rp>になる"
+  meanings:
+    - 躺下
+    - 睡覺
+
+- rank: N3
+  text: "タンクトップ"
+  meanings:
+    - 背心 (tanktop)
+
+- rank: N3
+  text: "タルト"
+  meanings:
+    - 塔(點心 e.g. 水果塔)
+
+- rank: N3
+  text: "シール"
+  meanings:
+    - 封緘
+  examples:
+    - 封筒にシールを張る
+
+- rank: N3
+  text: "テキスト"
+  meanings:
+    - 文字(text)
+
+- rank: N3
+  text: "ナルシシスト"
+  meanings:
+    - 自戀者
+
+- rank: N3
+  text: "ニーズ"
+  meanings:
+    - 需求(needs)
+  examples:
+    - 市民のニーズにこたえる
+
+- rank: N3
+  text: "ミイラ"
+  meanings:
+    - 木乃伊(mirra)
+
+- rank: N3
+  text: "ユーモア"
+  meanings:
+    - 幽默 (humor)
+
+- rank: N3
+  text: "ヨット"
+  meanings:
+    - 遊艇(yacht)
+
+- rank: N3
+  text: "リビング"
+  meanings:
+    - 生活
+    - 客廳
+
+- rank: N3
+  text: "ルックス"
+  meanings:
+    - 容貌(looks)
+
+- rank: N3
+  text: "ルー"
+  meanings:
+    - 奶油炒麵糊(roux)
+
+- rank: N3
+  text: "ロケ"
+  meanings:
+    - 位置 (location 簡稱)
+
+- rank: N3
+  text: "ガーゼ"
+  meanings:
+    - 紗布 (gaze)
+
+- rank: N3
+  text: "ギブス"
+  meanings:
+    - 石膏 (gips)
+
+- rank: N3
+  text: "ダイヤ"
+  meanings:
+    - 鑽石 (diamond 簡稱)
+
+- rank: N3
+  text: "デニム"
+  meanings:
+    - 牛仔布 (denim)
+
+- rank: N3
+  text: "バーゲン"
+  meanings:
+    - 大甩賣 (bargain)
+
+- rank: N3
+  text: "バイキング"
+  meanings:
+    - 維京 (Viking)
+
+- rank: N3
+  text: "バード"
+  meanings:
+    - 小鳥 (bird)
+
+- rank: N3
+  text: "ブーケ"
+  meanings:
+    - 花束 (bouquet)
+
+- rank: N3
+  text: "パトカー"
+  meanings:
+    - 警車 (patrol car 簡稱)
+
+- rank: N3
+  text: "パンフレット"
+  meanings:
+    - 小冊子 (pamphlet)
+
+- rank: N3
+  text: "プチ"
+  meanings:
+    - 小型 (puchi)
